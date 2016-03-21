@@ -443,6 +443,11 @@ ul#menu {
 
 .gallery_filter ul.isotope {
     text-align: center;
+    padding-left: 0;
+}
+
+.gallery_filter > .isotope > li:last-child {
+    padding-right: 0;
 }
 
 .gallery_filter > .isotope > li {
