@@ -905,7 +905,7 @@ input:placeholder-shown {
     width: 47%;
 }
 
-textarea#first:focus {
+input#first:focus {
     background-color: #a0763d;
     border: 0 none;
     color: #fff;
@@ -913,7 +913,7 @@ textarea#first:focus {
     font-size: 14px;
 }
 
-input#box:focus {
+textarea#box:focus {
     background-color: #a0763d;
     border: 0 none;
     color: #fff;
